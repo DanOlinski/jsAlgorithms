@@ -1,6 +1,6 @@
 # jsAlgorithms
 
-This is an npm library package that contains general purpose javascript algorithms that can be installed and used when creating javascript applications, eliminating extra work of re writing basic javascript functions. Inspired on the [Lodash](https://lodash.com) library.
+This is an npm library package containing general purpose javascript algorithms that can be installed and used when creating javascript applications, eliminating extra work when developing js applications. Inspired on the [Lodash](https://lodash.com) library.
 
 ## Usage
 
