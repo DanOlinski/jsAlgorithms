@@ -2,6 +2,11 @@
 
 This is an npm library package containing general purpose javascript algorithms that can be installed and used when creating javascript applications, eliminating extra work when developing js applications. Inspired on the [Lodash](https://lodash.com) library.
 
+## Dependencies
+  - node: v 16
+  - chai: ^4.3.7
+  - mocha: ^9.2.2
+
 ## Usage
 
 **Install it:**
